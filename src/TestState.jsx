@@ -25,6 +25,7 @@ function Abc() {
 
   return (
     <div>
+      <h1> date 4/16/2025</h1>
       <h1>Practicing State</h1>
       <h2>{fruit}</h2>
       <button onClick={handleFruit}>Change Fruits Name</button>
