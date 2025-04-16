@@ -3,15 +3,10 @@ function Test1(){
       <div>
         <h1>Hello Sayma!</h1>
         <h2>Importing the project</h2>
+        <h3>working on sprint1</h3>
         
         
       </div>
     )
   }
-  export function Test2(){
-    return(
-<h1>Test2</h1>
-    )
-      
-  }
-  export default Test1  
+  export default Test1;
