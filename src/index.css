@@ -39,6 +39,11 @@ h2 {
 color: blue;
 }
 
+#fntsize{
+  text-decoration: underline;
+  color: purple;
+}
+
 button {
   border-radius: 8px;
   border: 1px solid transparent;

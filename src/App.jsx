@@ -1,5 +1,6 @@
 import Say,{Fruits,Name,} from "./ToDo.jsx"
 import Abc from "./TestState.jsx"
+import Test1 from "./Test1.jsx"
 
 
 
@@ -47,6 +48,7 @@ function App() {
       
       <Fruit />
       <city />
+      <Test1 />
      
       
       <h2> {operation(50,20,"+")}</h2>
